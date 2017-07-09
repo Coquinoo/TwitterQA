@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Have you ever wanted to know how someone special would reply on Twitter? Train a model on their twitter data.
+Have you ever wanted to know how someone special would reply on Twitter? Train a model on their twitter data. Here we are using realdonaldtrump
 
 This repository has adapted [Conchylicultor/DeepQA](https://github.com/Conchylicultor/DeepQA) to specifically ONLY work with tweets.
 Note that by default scraping Twitter and using their API will only yield you a maximum of 3200 tweets; most likely less.
@@ -41,7 +41,5 @@ The program requires the following dependencies (easy to install using pip):
  * tqdm (for the nice progression bars)
 
 ## Further instructions
-
-You're advised to experiment with the possible paramters to make it a better model.
 
 Have a look at the [original repo](https://github.com/Conchylicultor/DeepQA) for more information.
