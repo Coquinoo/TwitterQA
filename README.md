@@ -29,19 +29,6 @@ Run
 
 to have an interactive QA session with Guido.
 
-## Example
-
-Question asked after having trained on default settings:
-
-    Q: which editor do you use ?
-    A: emacs of course !
-
-## Twitter data
-
-You can see the collected twitter data at:
-
-    data/tweets/<username>-answers.txt
-    data/tweets/<username>-questions.txt
 
 ## Installation (quoting Conchylicultor)
 
